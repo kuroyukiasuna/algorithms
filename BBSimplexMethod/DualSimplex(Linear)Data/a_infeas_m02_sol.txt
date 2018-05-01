@@ -1,0 +1,5 @@
+#     0: obj = -1013.000000
+#     1: obj = -360.503805
+#     2: infeasible
+infeasible
+ 0 -1 1 1 1 0

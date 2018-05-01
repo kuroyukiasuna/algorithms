@@ -1,0 +1,2 @@
+optimal # objective -150
+4 -3 19 166 -298 
