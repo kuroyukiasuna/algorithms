@@ -12,7 +12,7 @@ Implemented algorithms in c++
   l1 ... ln (lowerbound) </br>
   u1 ... un (upperbound) </br>
   a(0,0) ... a(0,n-1)    </br>
-  :             :        </br>
+  :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            :        </br>
   .             .        </br>
   a(m-1,0) ... a(m-1, n-1) (the constraint matrix, with mxn dimensions) </br>
   b1 ... bn    (constraint) </br>
