@@ -1,9 +1,9 @@
 # algorithms
 Implemented algorithms in c++
 
-1.BBSimplexMethod:
-  &nbsp;&nbsp;Dual Simplex Method for solving linear systems (in this case use the simplexmethod(working version).cpp file)</br>
-  &nbsp;&nbsp;Branch and Bound Method for solving integer systems (default)</br>
+1.BBSimplexMethod:</br>
+  &nbsp;&nbsp;1.)Dual Simplex Method for solving linear systems (in this case use the simplexmethod(working version).cpp file)</br></br>
+  &nbsp;&nbsp;2.)Branch and Bound Method for solving integer systems (default)</br>
   
   Input format(See examples in Data folders):</br>
   </br>
